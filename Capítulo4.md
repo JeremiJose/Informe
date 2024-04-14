@@ -106,12 +106,98 @@ Para la tipografia escojimos Calibri, ya que es conocida por su alta legibilidad
 <img src="./imagenes/mockup 4.JPG"/>
 <br>
 <h2>4.4 Web Applications UX/UI Design</h2>
-<h3>4.4.1 Web Applications Wireframes</h3>
-<h3>4.4.2 Web Applications Wireflow Diagrams</h3>
-<h3>4.4.2 Web Applications Mock-ups</h3>
-<h3>4.4.3 Web Applications User Flow Diagrams</h3>
+<td>Vista para Usuario General</td>
+<br><br>
+<td>Segmento de inicio:</td>
+<img src="./imagenes/webaplicationwireframe.JPG"/>
+<img src="./imagenes/webaplicationwireframe2.JPG"/>
+<img src="./imagenes/webaplicationwireframe3.JPG"/>
 
+<td>Segmento de información sobre eventos, conciertos y discotecas:</td>
+<img src="./imagenes/webaplicationwireframe4.JPG"/>
+<img src="./imagenes/webaplicationwireframe5.JPG"/>
+
+<td>Segmento de adquisición de entradas:</td>
+<img src="./imagenes/webaplicationwireframe6.JPG"/>
+<img src="./imagenes/webaplicationwireframe7.JPG"/>
+<p>Link del Figma : https://www.figma.com/file/KbCtpsbMWS1zaDDdYl8vAQ/Web-Applications-Mock-ups?type=design&node-id=0%3A1&mode=design&t=dWTASblpDbT7DnVi-1</p>
+<br>
+<td>Vista para Usuario Empresarial:</td>
+<br>
+<td>Segmento de inicio, el usuario inicia sesión con su cuenta empresarial o de lo contrario se registra como un usuario nuevo.</td>
+<img src="./imagenes/webaplicationwireframe.JPG"/>
+<img src="./imagenes/webaplicationwireframe2.JPG"/>
+<img src="./imagenes/webaplicationwireframe3.JPG"/>
+
+<td>Segmento de calendario y eventos agendados, aqui se puede visualizar la información de los eventos pendientes e iniciar el proceso de crear un nuevo evento.</td>
+<img src="./imagenes/mockupusuarioempresarial.JPG"/>
+
+<td>Segmento de creación del evento, aqui se podrá crear el evento y especificar todos sus detalles para que los usuarios generales lo puedan ver.</td>
+<img src="./imagenes/mockupusuarioempresarial2.JPG"/>
+<img src="./imagenes/mockupusuarioempresarial3.JPG"/>
+<img src="./imagenes/mockupusuarioempresarial4.JPG"/>
+<p>Link del Figma : https://www.figma.com/file/xWLUYV6msjOPbmQIWzbZyK/Landing-Page-Mock-up%2FWireframe?type=design&node-id=0%3A1&mode=design&t=nFbwSDvqLBXYbfay-1</p>
+<br>
+<h3>4.4.2 Web Applications Wireflow Diagrams</h3>
+<td>User Persona:Usuario General.</td><br>
+<td>User Goal:Encontrar y adquirir las entradas para un concierto, evento o discoteca satisfactoriamente.</td><br>
+<br><td>En el Wireflow se evidencia el proceso por el cual deve pasar el usuario general para adquirir sus entradas, desde la eleccion del concierto, evento o discoteca hasta la eleccion del medio de pago.</td>
+<img src="./imagenes/Web Applications Wireflow Diagrams1.png"/>
+
+<td>User Persona:Usuario Empresarial.</td><br>
+<td>User Goal:Crear un evento y proporcionar los detalles de este satisfactoriamente.</td><br>
+<br><td>En el Wireflow se evidencia el proceso por el cual deve pasar el usuario empresarial para crear su evento, desde especificar el tipo evento hasta brindar los detalles de este.</td>
+<img src="./imagenes/Wireflowusuarioempresarial.png"/>
+<p>Link del LucidChart : https://lucid.app/lucidchart/23c75c4f-6e14-45e6-9a97-2f5135e4a15c/edit?viewport_loc=-3364%2C196%2C6656%2C3260%2C0_0&invitationId=inv_cb23542a-c259-4cc0-8cfc-904ad1590b14</p><br>
+<br>
+
+<h3>4.4.2 Web Applications Mock-ups</h3>
+<td>Vista para Usuario General:</td>
+<br><br>
+<td>Segmento de inicio, el usuario inicia sesión con su cuenta general o de lo contrario se registra como usuario nuevo.</td>
+<img src="./imagenes/mockup 1.JPG"/>
+<img src="./imagenes/iniciomockup1.JPG"/>
+<img src="./imagenes/iniciomockup2.JPG"/>
+
+<td>Segmento de información sobre eventos, conciertos y discotecas. Aqui los usuarios cuentan con multiples opciones a su elección. Además, encontrará una breve información del evento,junto a la fecha, dirección, entre otros. </td>
+<img src="./imagenes/informacionmockup1.JPG"/>
+<img src="./imagenes/informacionmockup2.JPG"/>
+
+<td>Segmento de adquisición de entradas, aqui los usuarios confirmarán su compra y elegirán el numero de entradas que desean adquirir. Posteriormente podrán descargar su voucher de pago y volver al menú de selección de eventos.</td>
+<img src="./imagenes/compramockup1.JPG"/>
+<img src="./imagenes/compramockup2.JPG"/>
+<p>Link del Figma : https://www.figma.com/file/KbCtpsbMWS1zaDDdYl8vAQ/Web-Applications-Mock-ups?type=design&node-id=0%3A1&mode=design&t=dWTASblpDbT7DnVi-1</p>
+<br>
+<td>Vista para Usuario Empresarial:</td>
+<br><br>
+<td>Segmento de inicio, el usuario inicia sesión con su cuenta empresarial o de lo contrario se registra como un usuario nuevo.</td>
+<img src="./imagenes/mockup 1.JPG"/>
+<img src="./imagenes/iniciomockup1.JPG"/>
+<img src="./imagenes/iniciomockup2.JPG"/>
+
+<td>Segmento de calendario y eventos agendados, aqui se puede visualizar la información de los eventos pendientes e iniciar el proceso de crear un nuevo evento.</td>
+<img src="./imagenes/wireframeusuarioempresarial.JPG"/>
+<td>Segmento de creación del evento, aqui se podrá crear el evento y especificar todos sus detalles para que los usuarios generales lo puedan ver.</td>
+<img src="./imagenes/wireframeusuarioempresarial2.JPG"/>
+<img src="./imagenes/wireframeusuarioempresarial3.JPG"/>
+<img src="./imagenes/wireframeusuarioempresarial4.JPG"/>
+<p>Link del Figma : https://www.figma.com/file/xWLUYV6msjOPbmQIWzbZyK/Landing-Page-Mock-up?type=design&node-id=0%3A1&mode=design&t=nFbwSDvqLBXYbfay-1</p>
+<br>
+<h3>4.4.3 Web Applications User Flow Diagrams</h3>
+<td>User Persona:Usuario General.</td><br>
+<td>User Goal:Encontrar y adquirir las entradas para un concierto, evento o discoteca satisfactoriamente.</td><br>
+<br><td>En el Wireflow se evidencia el proceso por el cual deve pasar el usuario general para adquirir sus entradas, desde la eleccion del concierto, evento o discoteca hasta la eleccion del medio de pago.</td>
+<img src="./imagenes/Web Applications User Flow Diagrams.png"/>
+
+
+<td>User Persona:Usuario Empresarial.</td><br>
+<td>User Goal:Crear un evento y proporcionar los detalles de este satisfactoriamente.</td><br>
+<br><td>En el Wireflow se evidencia el proceso por el cual deve pasar el usuario empresarial para crear su evento, desde la especificacion del tipo evento hasta los detalles de este.</td>
+<img src="./imagenes/wireflowmockup.png"/><br>
+<p>Link del LucidChart : https://lucid.app/lucidchart/d600e420-2008-47f3-b62c-9d0831517951/edit?viewport_loc=1336%2C-2130%2C9357%2C4583%2C0_0&invitationId=inv_e9b49aaa-b374-4540-8239-73a459be1746</p><br>
+<br>
 <h2>4.5 Web Applications Prototyping</h2>
+<p><strong>Enlace al prototipo de la aplicación web: </strong>https://www.figma.com/proto/KbCtpsbMWS1zaDDdYl8vAQ/Web-Applications-Mockup%2Fwireframe?type=design&node-id=173-443&t=XHaNL054rBg1ANC0-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=173%3A443</p>
 
 <h2>4.6 Domain-Driven Software Architecture</h2>
 <h3>4.6.1 Software Architecture Context Diagram</h3>
