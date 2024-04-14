@@ -1,7 +1,42 @@
 <h1>CAPÍTULO IV: PRODUCT UX/UI DESIGN</h1>
 <h2>4.1 Style Guidelines</h2>
 <h3>4.1.1 General Style Guidelines</h3>
+<p>Lenguaje:
+El lenguaje que usaremos en nuestra aplicación es el lenguaje formal ya que queremos transmitirle al usuario seguridad y confianza en la información y recomendaciones que le brindemos.
+</p>
+
+<p>Logo:
+El logo de MyEvent ha sido diseñado con un enfoque minimalista para reflejar la esencia de la marca y su propósito como una plataforma de venta de entradas a eventos exclusivos.
+</p>
+<img src="./imagenes/myeventLogo.png">
+
+<p>Procederemos a mostrar los elementos seleccionados para el diseño de la aplicación.
+Con respecto a la paleta de colores elegimos los siguientes:</p>
+<img src="./imagenes/colores.png">
+
+<p>Tipografía:
+Para la tipografia escojimos Calibri, ya que es conocida por su alta legibilidad y claridad, lo que la convierte en una excelente opción para la comunicación de mensajes importantes en la web. En una landing page, donde la información clave debe ser fácilmente accesible y comprensible para los usuarios, la tipografía Calibri garantiza que el contenido sea claro y fácil de leer, lo que mejora la experiencia del usuario.
+</p>
+<img src="./imagenes/calibri.png">
 <h3>4.1.2 Web Style Guidelines</h3>
+<p>Al elegir Calibri para la tipografía de la aplicación web de MyEvent, se mantiene la consistencia visual con la marca. La tipografía utilizada en la aplicación debe reflejar la identidad visual de la marca para fortalecer su reconocimiento y cohesión. Como Calibri es una fuente comúnmente asociada con profesionalismo y modernidad, se alinea bien con la imagen contemporánea que MyEvent desea proyectar. A continuacion se daran los formatos de tamaño, estilo y formato de letra a utilizar:</p>
+<ul>
+  <li>   Los botones con texto de la aplicación utilizarán el tamaño de letra 12 y estilo “Regular”.</li>
+  <li>   Los títulos de la aplicación utilizarán el tamaño 16 en estilo “SemiBold”.</li>
+  <li>   Los textos de la aplicación utilizarán el tamaño 14 en estilo “Regular”.</li>
+  <li>   Los botones con texto utilizarán el tamaño de letra 18 y estilo “Medium”.</li>
+  <li>   Los títulos utilizarán el tamaño 55 y estilo “Regular”.</li>
+  <li>   Los subtítulos utilizarán el tamaño 28 en estilo “Medium”.</li>
+  <li>   Los textos utilizarán el tamaño 18 en estilo “Regular”.</li>
+  <li>   Los textos medianos utilizarán el tamaño 22 en estilo “Regular”.</li>
+  <li>   Los textos pequeños utilizarán el tamaño 15 en “Light”.</li>
+</ul>
+<h4><strong>Botones</strong><h4>
+  <p>Se utilizaran botones como el siguiente:</p>
+    <img src="./imagenes/botones.png"/>
+<h4><strong>Input</strong><h4>
+  <p>Se utilizaran campos de datos de entrada como el siguiente:</p>
+    <img src="./imagenes/cuadrosInput.png"/>
 
 <h2>4.2 Information Architecture</h2>
 <h3>4.2.1 Organization Systems</h3>
@@ -283,89 +318,128 @@ Link del Landing Page: https://stxfxno.github.io/MyEvent/myevent.html
 
 <h3>5.2.1.2 Sprint Backlog 1</h3>
 <P>En este primer Sprint Backlog el grupo se enfoco en realizar la landing page y el diseño del Front de la aplicación web junto con el CRUD de la venta de boletas. Para el registro de cada tarea utilizamos Trello</P>
-<img src="https://github.com/AlejandroZarateGamarra/WS51_AppWeb_Grupo2/assets/112044940/cad12107-8da2-477f-854c-a4acc4d893c7">
 <table>
-            <thead>
-                    <tr>
-                    <td>Sprint #:</td>
-                    <td colspan="7">Sprint 1</td>
-                    </tr>
-                    <tr>
-                        <td colspan="2">User Story</td>
-                        <td colspan="6">Work-Item / Task</td>
-                    </tr>
-                    <tr>
-                        <td>ID</td>
-                        <td>Title</td>
-                        <td>ID</td>
-                        <td>Title</td>
-                        <td>Description</td>
-                        <td>Estimation (Hours)</td>
-                        <td>Assigned to</td>
-                        <td>Status (To-Do/In-Process/To-Review/Done)</td>
-                    </tr>
-            </thead>
-            <tbody>
-                    <tr>
-                        <td>..</td>
-                        <td>..</td>
-                        <td>..</td>
-                        <td>..</td>
-                        <td>..</td>
-                        <td>..</td>
-                        <td>..</td>
-                        <td>..</td>
-                    </tr>
-            </tbody>
+   <tr>
+    <th>Sprint #</th>
+    <th>Sprint 1</th>
+  </tr>
+   <tr>
+    <th>User Story</th>
+    <th></th>
+    <th>Work-Item/Task</th>
+  </tr>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Id</th>
+    <th>Title </th>
+    <th>Description</th>
+    <th>Estimation(Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do / InProcess / ToReview / Done)</th>
+  </tr>
+  <tr>
+    <th>US-01</th>
+    <th>Visualizar una landing page intuitiva</th>
+    <th>W-01</th>
+    <th>Diseño </th>
+    <th>Como visitante, quiero ver una landing page intuitiva, atractiva y sencilla para que pueda entender rápidamente el propósito del sitio web.</th>
+    <th>2 hours</th>
+    <th>Michael</th>
+    <th>Done</th>
+  </tr>
+  <tr>
+    <th>US-02</th>
+    <th>Visualizar una sección de MyEvent</th>
+    <th>W-02</th>
+    <th>Sección quienes somos</th>
+    <th>Como visitante, quiero ver una sección en el landing page que muestre los proximos eventos que auspicia la empresa.</th>
+    <th>2 hours</th>
+    <th>Luis</th>
+    <th>Done</th>
+  </tr>
+  <tr>
+    <th>US-03</th>
+    <th>Visualizar una sección de Nosotros</th>
+    <th>W-03</th>
+    <th>Sección Nosotros</th>
+    <th>Como visitante, quiero ver una seccion en el landing page que hable acerca de la empresa y su motivación.</th>
+    <th>2 hours</th>
+    <th>Piero</th>
+    <th>Done</th>
+  </tr>
+  <tr>
+    <th>US-04</th>
+    <th>Visualizar una sección de contacto</th>
+    <th>W-04</th>
+    <th>Sección de contacto</th>
+    <th>Como usuario, quiero una seccion donde pueda observar tarjetas de presentacion de personas con las cuales pueda comunicarme relacionadas con la empresa.</th>
+    <th>3 hours</th>
+    <th>Mario</th>
+    <th>Done</th>
+  </tr>
+  <tr>
+    <th>US-05</th>
+    <th>Visualización de elementos Call to Action</th>
+    <th>W-05</th>
+    <th>Elementos call to action</th>
+    <th>Como visitante, quiero poder observar dentro de la landing page algun elemento que pueda dirijirme directamente a la descarga o uso de la aplicacion que promueve esta landing page</th>
+    <th>30 minutes</th>
+    <th>Alessandro</th>
+    <th>Done</th>
+  </tr>
 </table>
-<h3>5.2.1.3 Development Evidence for Sprint Review.</h3>
+
+<h4>5.2.1.3 Development Evidence for Sprint Review</h4>
 <table>
-    <thead>
-      <tr>
-        <th>Repository</th>
-        <th>Branch</th>
-        <th>Commit ID</th>
-        <th>Commit Message</th>
-        <th>Commit Message Body</th>
-        <th>Committed on (date)</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>ponlo para poder mostraralo en GitHub(URL)</td>
-        <td>nombre_de_la_rama</td>
-        <td>ID_del_commit</td>
-        <td>Mensaje_del_commit</td>
-        <td>Cuerpo_del_mensaje_del_commit</td>
-        <td>Fecha_de_commit</td>
-      </tr>
-      <!-- Aquí puedes agregar más filas si necesitas -->
-    </tbody>
-</table>
-<h3>5.2.1.4 Testing Suite Evidence for Sprint Review.</h3>
-<table>
-    <thead>
-      <tr>
-        <th>Repository</th>
-        <th>Branch</th>
-        <th>Commit ID</th>
-        <th>Commit Message</th>
-        <th>Commit Message Body</th>
-        <th>Committed on (date)</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>ponlo para poder mostraralo en GitHub(URL)</td>
-        <td>nombre_de_la_rama</td>
-        <td>ID_del_commit</td>
-        <td>Mensaje_del_commit</td>
-        <td>Cuerpo_del_mensaje_del_commit</td>
-        <td>Fecha_de_commit</td>
-      </tr>
-      <!-- Aquí puedes agregar más filas si necesitas -->
-    </tbody>
-</table>
+   <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit ID</th>
+    <th>Commit Message</th>
+    <th>Commit ed on (Date)</th>
+  </tr>
+  <tr>
+    <th>https://github.com/stxfxno/stxfxno.github.io </th>
+    <th>main</th>
+    <th>ed1a4aedcf00c8febefdd9616cb2422c7d7d3cb8</th>
+    <th>"Archivos del landing page”</th>
+    <th>Thu Apr 4 21:32:48 2024</th>
+  </tr>
+  <tr>
+    <th>https://github.com/stxfxno/stxfxno.github.io</th>
+    <th>main</th>
+    <th>d7d8cdff3b4cf3f7351146fa01146efa0a45df8c</th>
+    <th>"Seccion inicial”</th>
+    <th>Sat Apr 6 00:42:24</th>
+  </tr>
+   <tr>
+    <th>https://github.com/stxfxno/stxfxno.github.io</th>
+    <th>main</th>
+    <th>0f7c42fef72c8655ed7db2102ddd9d453cded3e1</th>
+    <th>"Seccion MyEvent</th>
+    <th>Sat Apr 6 00:42:24 2024</th>
+  </tr>
+  </tr>
+   <tr>
+    <th>https://github.com/stxfxno/stxfxno.github.io</th>
+    <th>main</th>
+    <th>ae044b664c4600f8be9812ac9821ad944ef6e5b5</th>
+    <th>"Seccion Nosotros</th>
+    <th>Thu Apr 4 21:32:48 2024</th>
+  </tr>
+  </tr>
+   <tr>
+    <th>https://github.com/stxfxno/stxfxno.github.io</th>
+    <th>main</th>
+    <th>7f4da2115b0aae7ff749db20cbed7486cddb06e4</th>
+    <th>"Seccion Contacto</th>
+    <th>Wed Apr 10 23:38:13 2024</th>
+  </tr>
+  </table>
+<h4>5.2.1.4 Testing Suite Evidence for Sprint Review</h4>
+<p>Como nos encontramos en una etapa de diseño de la pagina web, aun no podemos realizar los respectivos Tests. Pero se están
+realizando las validaciones para ir mejorando en nuetra pagina web</p>
 <h3>5.2.1.5 Execution Evidence for Sprint Review.</h3>
 Registro de usuario:
 <img src=https://github.com/AlejandroZarateGamarra/WS51_AppWeb_Grupo2/assets/112044940/9a4fbf95-c832-4e19-a6df-9a0c013722e8>
@@ -388,3 +462,5 @@ Registro de Evento Confirmado:
 <img src=https://github.com/AlejandroZarateGamarra/WS51_AppWeb_Grupo2/assets/112044940/1ecb7c71-631f-4456-a070-ea9f0de0eba9>
 <img src=https://github.com/AlejandroZarateGamarra/WS51_AppWeb_Grupo2/assets/112044940/a883a101-fe73-4215-9798-7e88ab721427>
 <h3>5.2.1.8 Team Collaboration Insights during Sprint.</h3>
+<img src="./imagenes/commits.png">
+<img src="./imagenes/insights.png">
